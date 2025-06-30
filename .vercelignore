@@ -1,0 +1,6 @@
+static/
+*.csv
+*.png
+*.jpg
+*.jpeg
+.idea/
